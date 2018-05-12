@@ -1,0 +1,39 @@
+_repo: On-Canada-s-FrontierWestern-Canada_35208
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Remington, Frederic
+    alias: Remington, Frederic Sackrider
+    birthdate: 1861
+    deathdate: 1909
+    gutenberg_agent_id: '2565'
+    url: http://www.gutenberg.org/2009/agents/2565
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Remington
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ralph, Julian
+    birthdate: 1853
+    deathdate: 1903
+    gutenberg_agent_id: '37533'
+    url: http://www.gutenberg.org/2009/agents/37533
+description: ''
+gutenberg_issued: '2011-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35208'
+  lccn: 02000299
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- !lcsh 'Hudson''s Bay Company -- History'
+- !lcc 'F1001'
+- !lcsh 'Indians of North America -- Canada'
+title: "On Canada's Frontier\r\nSketches of History, Sport, and Adventure and of the\
+  \ Indians, Missionaries, Fur-traders, and Newer Settlers of Western Canada"
+url: http://www.gutenberg.org/ebooks/35208
