@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '37533'
     url: http://www.gutenberg.org/2009/agents/37533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35208#On-Canada-s-FrontierWestern-Canada
 gutenberg_issued: '2011-02-07'
 gutenberg_type: Text
 identifiers:
